@@ -12,3 +12,7 @@ Anomaly detection in surveillance videos is crucial for identifying abnormal act
 The UCF Crime Dataset consists of labeled videos depicting criminal activities. It is widely used for benchmarking anomaly detection algorithms in surveillance scenarios.
 
 Auc is 82.64
+
+# Generated Output Graph For a Surveillance Video
+Anomaly Scores vs Number of Frames
+![all_framesnew_result](https://github.com/pratt4/Anomaly-Detection-in-Surveillance-Videos/assets/90851204/b6a6bcb6-2fac-413d-b11a-c8260d5f9e19)
